@@ -25,6 +25,8 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=Ansible&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&logoColor=purple&labelColor=0D1117)&nbsp;
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-0D1117?style=for-the-badge&logo=InfluxDB&logoColor=purple&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&logoColor=purple&labelColor=0D1117)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-0D1117?style=for-the-badge&logo=Prometheus&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=Grafana&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Zabbix](https://img.shields.io/badge/-Zabbix-0D1117?style=for-the-badge&logo=Zabbix&logoColor=purple&labelColor=0D1117)&nbsp;
