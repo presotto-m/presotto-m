@@ -21,7 +21,6 @@
 
 ### Main skills:
 ![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=Terraform&labelColor=0D1117)&nbsp;
-![Shell script](https://img.shields.io/badge/-Shell%20script-0D1117?style=for-the-badge&logo=Shell%20script&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=Ansible&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&logoColor=purple&labelColor=0D1117)&nbsp;
@@ -33,13 +32,13 @@
 ![Proxmox](https://img.shields.io/badge/-Proxmox-0D1117?style=for-the-badge&logo=Proxmox&logoColor=purple&labelColor=0D1117)&nbsp;
 ![VMware](https://img.shields.io/badge/-VMware-0D1117?style=for-the-badge&logo=VMware&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-0D1117?style=for-the-badge&logo=Ubiquiti&logoColor=purple&labelColor=0D1117)&nbsp;
-![HashiCorp](https://img.shields.io/badge/-HashiCorp-0D1117?style=for-the-badge&logo=HashiCorp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Veeam](https://img.shields.io/badge/-Veeam-0D1117?style=for-the-badge&logo=Veeam&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Sophos](https://img.shields.io/badge/-Sophos-0D1117?style=for-the-badge&logo=Sophos&logoColor=purple&labelColor=0D1117)&nbsp;
 ![OCI](https://img.shields.io/badge/-OCI-0D1117?style=for-the-badge&logo=OCI&logoColor=purple&labelColor=0D1117)&nbsp;
+![Shell script](https://img.shields.io/badge/-Shell%20script-0D1117?style=for-the-badge&logo=Shell%20script&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HashiCorp](https://img.shields.io/badge/-HashiCorp-0D1117?style=for-the-badge&logo=HashiCorp&logoColor=purple&labelColor=0D1117)&nbsp;
 
-
- <div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{presotto-m}/count.svg" /></p> 
 <br></div>
