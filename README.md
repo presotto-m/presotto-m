@@ -38,7 +38,7 @@
 ![Sophos](https://img.shields.io/badge/-Sophos-0D1117?style=for-the-badge&logo=Sophos&logoColor=purple&labelColor=0D1117)&nbsp;
 ![OCI](https://img.shields.io/badge/-OCI-0D1117?style=for-the-badge&logo=OCI&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Shell script](https://img.shields.io/badge/-Shell%20script-0D1117?style=for-the-badge&logo=Shell%20script&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HashiCorp](https://img.shields.io/badge/-HashiCorp-0D1117?style=for-the-badge&logo=HashiCorp&logoColor=purple&labelColor=0D1117)&nbsp;
+![HCL](https://img.shields.io/badge/-HCL-0D1117?style=for-the-badge&logo=HCL&logoColor=purple&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
