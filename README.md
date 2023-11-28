@@ -39,6 +39,7 @@
 ![OCI](https://img.shields.io/badge/-OCI-0D1117?style=for-the-badge&logo=OCI&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Shell script](https://img.shields.io/badge/-Shell%20script-0D1117?style=for-the-badge&logo=Shell%20script&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HCL](https://img.shields.io/badge/-HCL-0D1117?style=for-the-badge&logo=HCL&logoColor=purple&labelColor=0D1117)&nbsp;
+![Ceph](https://img.shields.io/badge/-Ceph-0D1117?style=for-the-badge&logo=Ceph&logoColor=purple&labelColor=0D1117)&nbsp;
 
 <div align="center"> 
 <br><p align="centre"><b>Visitors Count</b></p>  
