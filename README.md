@@ -20,26 +20,30 @@
  </div>
 
 ### Main skills:
-![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=Terraform&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=Ansible&logoColor=purple&labelColor=0D1117)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&logoColor=purple&labelColor=0D1117)&nbsp;
-![InfluxDB](https://img.shields.io/badge/-InfluxDB-0D1117?style=for-the-badge&logo=InfluxDB&logoColor=purple&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&logoColor=purple&labelColor=0D1117)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=purple&labelColor=0D1117)&nbsp;
-![Prometheus](https://img.shields.io/badge/-Prometheus-0D1117?style=for-the-badge&logo=Prometheus&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=Grafana&logoColor=purple&labelColor=0D1117)&nbsp;
-![Zabbix](https://img.shields.io/badge/-Zabbix-0D1117?style=for-the-badge&logo=Zabbix&logoColor=purple&labelColor=0D1117)&nbsp;
-![Nextcloud](https://img.shields.io/badge/-Nextcloud-0D1117?style=for-the-badge&logo=Nextcloud&logoColor=purple&labelColor=0D1117)&nbsp;
-![Proxmox](https://img.shields.io/badge/-Proxmox-0D1117?style=for-the-badge&logo=Proxmox&logoColor=purple&labelColor=0D1117)&nbsp;
-![VMware](https://img.shields.io/badge/-VMware-0D1117?style=for-the-badge&logo=VMware&logoColor=purple&labelColor=0D1117)&nbsp;
-![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-0D1117?style=for-the-badge&logo=Ubiquiti&logoColor=purple&labelColor=0D1117)&nbsp;
-![Veeam](https://img.shields.io/badge/-Veeam-0D1117?style=for-the-badge&logo=Veeam&logoColor=purple&labelColor=0D1117)&nbsp;
-![Sophos](https://img.shields.io/badge/-Sophos-0D1117?style=for-the-badge&logo=Sophos&logoColor=purple&labelColor=0D1117)&nbsp;
-![OCI](https://img.shields.io/badge/-OCI-0D1117?style=for-the-badge&logo=OCI&logoColor=purple&labelColor=0D1117)&nbsp;
-![Shell script](https://img.shields.io/badge/-Shell%20script-0D1117?style=for-the-badge&logo=Shell%20script&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HCL](https://img.shields.io/badge/-HCL-0D1117?style=for-the-badge&logo=HCL&logoColor=purple&labelColor=0D1117)&nbsp;
-![Ceph](https://img.shields.io/badge/-Ceph-0D1117?style=for-the-badge&logo=Ceph&logoColor=purple&labelColor=0D1117)&nbsp;
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="MReis-FreeBSD" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/freebsd.svg">
+  <img align="center" alt="MReis-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="MReis-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="MReis-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="MReis-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="MReis-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="MReis-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="MReis-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+  <img align="center" alt="MReis-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="MReis-Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
+  <img align="center" alt="MReis-Zabbix" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg">
+  <img align="center" alt="MReis-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+  <img align="center" alt="MReis-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="MReis-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="MReis-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="MReis-Packer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg">
+  <img align="center" alt="MReis-Vagrant" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">
+  <img align="center" alt="MReis-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="MReis-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MReis-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="MReis-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
+
 
 <div align="center"> 
 <br><p align="centre"><b>Visitors Count</b></p>  
